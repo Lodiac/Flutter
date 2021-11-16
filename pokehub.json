@@ -340,7 +340,95 @@
       "num": "",
       "name": ""
     }]
+  }, {
+    "id": 12,
+    "num": "012",
+    "name": "Butterfree",
+    "img": "https://www.serebii.net/pokemongo/pokemon/012.png",
+    "type": [
+      "Bug Flying"
+    ],
+    "height": "1.10 m",
+    "weight": "32.0 kg",
+    "candy": "Butterfree Candy",
+    "candy_count": 50,
+    "egg": "not in eggs",
+    "spawn_chance": 3.032,
+    "avg_spawns": 303.2,
+    "spawn_time": "16:35",
+    "multipliers": [1.05],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "",
+      "name": ""
+    }, {
+      "num": "",
+      "name": ""
+    }]
+  }, {
+    "id": 13,
+    "num": "013",
+    "name": "Weedle",
+    "img": "https://www.serebii.net/pokemongo/pokemon/013.png",
+    "type": [
+      "Bug Poison"
+    ],
+    "height": "0.30 m",
+    "weight": "3.2 kg",
+    "candy": "Weedle Candy",
+    "candy_count": 12,
+    "egg": "2 km",
+    "spawn_chance": 3.032,
+    "avg_spawns": 303.2,
+    "spawn_time": "16:35",
+    "multipliers": [1.05],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "014",
+      "name": "Kakuna"
+    }, {
+      "num": "015",
+      "name": "Beedrill"
+    }]
+  }, {
+    "id": 14,
+    "num": "014",
+    "name": "Kakuna",
+    "img": "https://www.serebii.net/pokemongo/pokemon/014.png",
+    "type": [
+      "Bug Poison"
+    ],
+    "height": "0.60 m",
+    "weight": "10.0 kg",
+    "candy": "Kakuna Candy",
+    "candy_count": 50,
+    "egg": "Not in eggs",
+    "spawn_chance": 3.032,
+    "avg_spawns": 303.2,
+    "spawn_time": "16:35",
+    "multipliers": [1.05],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "015",
+      "name": "Beedrill"
+    }, {
+      "num": "",
+      "name": ""
+    }]
   }
+
 
 
 
